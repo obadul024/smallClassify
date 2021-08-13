@@ -1,6 +1,6 @@
 # WE ARE TRAINING ON FIVE CLASSES/ ACTORS 
 1. We Are training the model to recognise the five actors who played superman in the last 2 decades
-2. Create the 'supermen' folder. 
+2. Create the 'supermen' folder in this directory, aka root. 
 The folder structure is as follows
              ---- > supermen {cavill, welling, hoeclin, reeves, routh}
              
