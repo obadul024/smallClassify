@@ -6,7 +6,7 @@ The folder structure is as follows
              
 
 3. Each of these subdirectories acts as a label for the dataset
-4. Add an image file to the root directory.
+4. Add an image file to the root directory. I have already added the ``` welling.jpg``` file. You can use that.
 5. Open the``` augmentedModel.py```, and replace the ```FILENAME ```with any of these actors names.It has to be one of the subdirectory name, ending in a '.jpg' extension. 
 6. This image file resides in the smallClassify or the root directory.
 7. Then this script 'augmentedModel.py' is executed the folders are populated with augmented dataset
